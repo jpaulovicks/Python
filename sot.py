@@ -37,7 +37,7 @@ from os import system
 
 # Global variables
 # virustotal public api key (replace with your own public or private API key)
-apikey = '2d225453cbb5edbe51d6b7b9fbe8e8b37168d598c9c49cd458bd67baa0cd19c6'
+apikey = ''
 
 # virustotal file hash report base url
 filescanurl = 'https://www.virustotal.com/vtapi/v2/file/report'
